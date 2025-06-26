@@ -4,7 +4,7 @@ Software Development Engineer in Test (SDET) with hands-on experience in automat
 <!--
 **Bishakha23/Bishakha23** is a ✨  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/your-camo-url" alt="SDET Banner" width="100%" />
 
 - 🔭 Technical Skills

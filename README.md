@@ -22,32 +22,54 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-🛠️ Skills & Tools
-
-#### 🧪 Testing Tools:
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge)
-
 #### 🧩 Frameworks:
 ![Page Object Model](https://img.shields.io/badge/Page_Object_Model-%234285F4?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+
+
+
+## 💻 Languages
+Java JavaScript HTML CSS SQL
+
+## 🧪 Testing Skills
+Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
+Automation: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
+API Testing: Postman, REST Assured
+Bug & Test Management: Jira, Zephyr
+Performance Testing: JMeter
+Security Testing: BurpSuite
+
+
+## 🧰 Tools & Platforms
+VS Code Eclipse STS GitHub Jenkins Burp Suite MySQL Workbench X-Mind JMeter
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishakha-nayyar&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishakha-nayyar&theme=dracula" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakha-nayyar&layout=compact&theme=dracula" />
+</p>
+
+## 🎉 Fun Facts
+
+- 🎯 I break things to make them stronger 💥
+- 🧠 I automate repetitive tasks just for fun
+- 🛡️ My motto: “Test early, test often, test automatically”
+
 
 ### 📫 How to Reach Me
 
 - 📧 Email: [bishakhanayyar.2006@gmail.com](mailto:bishakhanayyar.2006@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/bishakha-nayyar-795033371](www.linkedin.com/in/bishakha-nayyar-795033371)
 - 🌐 Portfolio: 
-### 📝 Featured Projects
 
-#### 🛍️ Demowebshop Automation
-- 🔗 [GitHub Repo](https://github.com/Bishakha23/demowebshop-automation)
-- ✅ Tools: Cypress, JavaScript, Page Object Model
-- 📌 Automated: Login, Add to Cart, Checkout, Wishlist, Footer Validation
 
-#### 🧪 Automation Test Store
-- 🔗 [GitHub Repo](https://github.com/Bishakha23/automationteststore-cypress)
-- ✅ Tools: Cypress, Allure Reports, Test Execution Summary
-- 📌 Coverage: Signup, Filtering, Contact Forms, Navigation Testing
+## 🧾 Final Words
+> “A great tester is not the one who finds most bugs — it’s the one who helps fix them early.”
+<p align="center"> <b>Thank you for visiting my profile 🙌<br>Let’s connect and build quality software together!</b> </p> ```
 
 -->

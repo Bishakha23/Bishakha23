@@ -2,7 +2,7 @@
 Software Development Engineer in Test (SDET) with hands-on experience in automation, manual, API, and performance testing.
 
 <!--
-**Bishakha23/Bishakha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bishakha23/Bishakha23** is a ✨ BUG REPORTING | TEST PLANNING | POM | ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

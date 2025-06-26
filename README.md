@@ -50,14 +50,14 @@ Security Testing: BurpSuite
 
 
 ## 🧰 Tools & Platforms
-VS Code
-Eclipse
-STS 
-GitHub 
-Jenkins
-Burp Suite
-MySQL Workbench
-X-Mind
+VS Code,
+Eclipse,
+STS ,
+GitHub, 
+Jenkins,
+Burp Suite,
+MySQL Workbench,
+X-Mind,
 JMeter
 
 ## 🎉 Fun Facts

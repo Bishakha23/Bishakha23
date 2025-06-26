@@ -20,5 +20,16 @@
 - 📧 Email: [bishakhanayyar.2006@gmail.com](mailto:bishakhanayyar.2006@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/bishakha-nayyar-795033371](www.linkedin.com/in/bishakha-nayyar-795033371)
 - 🌐 Portfolio: 
+### 📝 Featured Projects
+
+#### 🛍️ Demowebshop Automation
+- 🔗 [GitHub Repo](https://github.com/Bishakha23/demowebshop-automation)
+- ✅ Tools: Cypress, JavaScript, Page Object Model
+- 📌 Automated: Login, Add to Cart, Checkout, Wishlist, Footer Validation
+
+#### 🧪 Automation Test Store
+- 🔗 [GitHub Repo](https://github.com/Bishakha23/automationteststore-cypress)
+- ✅ Tools: Cypress, Allure Reports, Test Execution Summary
+- 📌 Coverage: Signup, Filtering, Contact Forms, Navigation Testing
 
 -->

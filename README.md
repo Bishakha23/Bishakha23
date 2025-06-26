@@ -29,30 +29,36 @@
 
 
 ## 💻 Languages
-Java JavaScript HTML CSS SQL
+Java 
+JavaScript 
+HTML 
+CSS 
+SQL
 
 ## 🧪 Testing Skills
 Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
+
 Automation: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
+
 API Testing: Postman, REST Assured
+
 Bug & Test Management: Jira, Zephyr
+
 Performance Testing: JMeter
+
 Security Testing: BurpSuite
 
 
 ## 🧰 Tools & Platforms
-VS Code Eclipse STS GitHub Jenkins Burp Suite MySQL Workbench X-Mind JMeter
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishakha-nayyar&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishakha-nayyar&theme=dracula" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakha-nayyar&layout=compact&theme=dracula" />
-</p>
+VS Code
+Eclipse
+STS 
+GitHub 
+Jenkins
+Burp Suite
+MySQL Workbench
+X-Mind
+JMeter
 
 ## 🎉 Fun Facts
 
